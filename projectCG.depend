@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1524926225 source:f:\programming\c++\codeblocks\computer graphics\projectcg\main.cpp
+	<iostream>
+	<fstream>
+	<GL/gl.h>
+	<GL/glut.h>
+	<cstdlib>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+
+1525012727 source:e:\programming\comgraphic\projectcg\main.cpp
+	<iostream>
+	<fstream>
+	<GL/gl.h>
+	<GL/glut.h>
+	<cstdlib>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+
+1524971034 source:c:\users\sami\downloads\projectcg\main.cpp
+	<iostream>
+	<fstream>
+	<GL/gl.h>
+	<GL/glut.h>
+	<cstdlib>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+
+1623573814 source:g:\computer graphics project\sami\projectcg\main.cpp
+	<iostream>
+	<fstream>
+	<GL/gl.h>
+	<GL/glut.h>
+	<cstdlib>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+
